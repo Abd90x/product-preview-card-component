@@ -113,6 +113,9 @@ main{
     color:#fff;
     font-weight: bold;
 }
+.btn button:active{
+    background-color: hsl(158, 35%, 22%);
+}
 .btn img{
     position:absolute;
     left:calc(50% - 70px );
